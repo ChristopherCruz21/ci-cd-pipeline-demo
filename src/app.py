@@ -45,7 +45,7 @@ def render_homepage(app_name: str = "CI/CD Pipeline Demo", version: str = "1.0.0
 
       .stage {{
         padding: 16px;
-        border: 1px solid #d0d7de;
+        border: 2px solid #d0d7de;
         border-radius: 6px;
       }}
     </style>
